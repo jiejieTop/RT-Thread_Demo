@@ -1,7 +1,7 @@
 /**
   ******************************************************************************
   * @file    main.c
-  * @author  fire
+  * @author  jiejie
   * @version V1.0
   * @date    2015-xx-xx
   * @brief   SD卡文件系统例程
